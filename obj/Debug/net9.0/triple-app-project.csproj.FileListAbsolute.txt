@@ -1,0 +1,14 @@
+C:\Users\ELITEBOOK\triple-app-project\bin\Debug\net9.0\triple-app-project.exe
+C:\Users\ELITEBOOK\triple-app-project\bin\Debug\net9.0\triple-app-project.deps.json
+C:\Users\ELITEBOOK\triple-app-project\bin\Debug\net9.0\triple-app-project.runtimeconfig.json
+C:\Users\ELITEBOOK\triple-app-project\bin\Debug\net9.0\triple-app-project.dll
+C:\Users\ELITEBOOK\triple-app-project\bin\Debug\net9.0\triple-app-project.pdb
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.AssemblyInfoInputs.cache
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.AssemblyInfo.cs
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.csproj.CoreCompileInputs.cache
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.dll
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\refint\triple-app-project.dll
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.pdb
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\triple-app-project.genruntimeconfig.cache
+C:\Users\ELITEBOOK\triple-app-project\obj\Debug\net9.0\ref\triple-app-project.dll
